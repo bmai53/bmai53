@@ -2,4 +2,4 @@
 
 ### ✨ Welcome to my GitHub! ✨
 
-While you're here, drop by my [website](https://bennymai.me/)? 🙃
+While you're here, drop by my [website](https://bmai.dev/)? 🙃
